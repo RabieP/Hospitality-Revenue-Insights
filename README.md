@@ -1,5 +1,5 @@
 # 🏨 Revenue Insights in Hospitality Domain
-Overview
+## Overview
 
 This project explores revenue and operational performance in the hospitality industry using Power BI. The dashboard evaluates hotel properties across cities, tracking key metrics like revenue, bookings, occupancy, ADR, and cancellation rates.
 
