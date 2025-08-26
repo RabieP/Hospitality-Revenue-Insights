@@ -17,7 +17,7 @@ To design a data-driven system that:
 
 ## Insights
 
--Revenue Performance: Total revenue reached 111M, with an average RevPAR of 5,496.
+- Revenue Performance: Total revenue reached 111M, with an average RevPAR of 5,496.
 
 - Occupancy Trends: Weekend occupancy was higher at 64.3% vs. 57.1% on weekdays.
 
