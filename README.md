@@ -23,7 +23,7 @@ DAX – for advanced calculations
 
 # How to Use
 
-Open the .pbix files in Power BI Desktop (if included).
+Open the .pbix files in Power BI Desktop.
 
 Explore dashboards with slicers and filters.
 
