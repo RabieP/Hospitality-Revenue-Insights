@@ -43,10 +43,10 @@ To design a data-driven system that:
 
 ## Key Skills Demonstrated
 
-- Sales Performance Analysis
+- Hospitality Revenue Analysis
 
-- Customer Segmentation
+- Operational KPI Tracking
 
-- KPI Development & Visualization
+- Advanced DAX Calculations
 
-- Data Storytelling & Dashboarding
+- Data Storytelling & Interactive Dashboards
