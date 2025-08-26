@@ -1,42 +1,52 @@
-# Revenue Insights in Hospitality Domain
+# 🏨 Revenue Insights in Hospitality Domain
+Overview
 
-Objective: Provide insights into hotel chain performance across properties and platforms.
-Key Features:
+This project explores revenue and operational performance in the hospitality industry using Power BI. The dashboard evaluates hotel properties across cities, tracking key metrics like revenue, bookings, occupancy, ADR, and cancellation rates.
 
-Property-level metrics: Revenue, Bookings, ADR, RevPAR, Occupancy, Cancellations.
+## Objective
 
-Trend analysis by city, week, and platform.
+To design a data-driven system that:
 
-Revenue split by business vs. luxury categories.
+- Monitors Revenue, Occupancy %, RevPAR, ADR, and Realisation %.
 
-Weekend vs. weekday occupancy and pricing comparison.
+- Compares Weekday vs. Weekend performance.
 
-📌 Insights: Revealed high-performing properties, demand seasonality, and platform-level efficiency.
+- Breaks down revenue by Property, City, and Room Class.
 
-# Tools & Technologies
+- Identifies patterns in Booking Platforms and their impact on realisation rates.
 
-Power BI – for dashboard development and data visualization
+## Insights
 
-Excel / CSV – for initial data handling
+-Revenue Performance: Total revenue reached 111M, with an average RevPAR of 5,496.
 
-DAX – for advanced calculations
+- Occupancy Trends: Weekend occupancy was higher at 64.3% vs. 57.1% on weekdays.
 
-# How to Use
+- Platform Analysis: Direct online bookings achieved ~70.6% realisation, slightly higher than aggregators.
 
-Open the .pbix files in Power BI Desktop.
+- Property Highlights: Atliq Bay generated the highest revenue (23M), while Atliq Blu achieved the best guest rating (4.23).
 
-Explore dashboards with slicers and filters.
+## Tools & Technologies
 
-Use insights for business decision-making.
+- **Power BI** – dashboard design & analysis
 
-# Key Skills Demonstrated
+- **Excel / CSV** – raw data preparation
 
-Data Cleaning & Transformation
+- **DAX** – calculated KPIs and metrics
 
-KPI Development
+## How to Use
 
-Business Domain Analysis (Finance, Hospitality, Retail)
+- Open the .pbix file in Power BI Desktop.
 
-Storytelling with Data
+- Use filters for region, category, and customer segment to analyze specific views.
 
-Interactive Dashboard Design
+- Explore insights to support sales planning and decision-making.
+
+## Key Skills Demonstrated
+
+- Sales Performance Analysis
+
+- Customer Segmentation
+
+- KPI Development & Visualization
+
+- Data Storytelling & Dashboarding
